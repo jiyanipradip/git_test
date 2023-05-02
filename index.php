@@ -7,13 +7,9 @@
 
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
-<<<<<<< HEAD
-<p>test git1234</p>
-    
-=======
+
 <p>This for testing git.</p>   
-<div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
->>>>>>> hello-world-images
+<p>This for testing git123.</p>   
     
 </body>
 </html> 
