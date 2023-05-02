@@ -7,8 +7,7 @@
 
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
-<p>test git12</p>
-    
+<p>This for testing git.</p>    
     
 </body>
 </html> 
